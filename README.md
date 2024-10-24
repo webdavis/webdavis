@@ -8,8 +8,11 @@ with clean, efficient code that scales.
 Here are some areas I focus on:
 
 - Intuitive UIs
-- Test-Driven Development (as a means to implement solid architecture 📐, verify behavior ✅,
-  facilitate communication 🗣️, and support the next developer 🤝🏼)
+- Test-Driven Development (as a means to):
+  - 📐 Implement solid architecture
+  - ✅ Verify behavior
+  - 🗣️ Facilitate communication
+  - 🤝🏼 Support the next developer
 - Automation／Configuration Management
 
 ## 🚀 Projects
