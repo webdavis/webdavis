@@ -10,7 +10,7 @@ Here are some areas I focus on:
 - Intuitive UIs
 - Test-Driven Development (as a means to implement solid architecture 📐, verify behavior ✅,
   facilitate communication 🗣️, and support the next developer 🤝🏼)
-- Automation/Configuration Management
+- Automation／Configuration Management
 
 ## 🚀 Projects
 
