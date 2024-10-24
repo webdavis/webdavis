@@ -18,7 +18,7 @@ Here are some areas I focus on:
 ## 🚀 Projects
 
 - [Maeve](https://github.com/webdavis/maeve): a simple weather app built for the iPhone.
-- [Homelab](https://github.com/webdavis/homelab): Automation of my home network configuration.
+- [Homelab](https://github.com/webdavis/homelab): automates the configuration of my home network.
 
 ## 🛠️ My Toolbox
 
