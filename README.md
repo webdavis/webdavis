@@ -25,8 +25,3 @@ Here are some areas I focus on:
 - **Programming Languages:** Swift, Python, Java, JavaScript
 - **Mobile Development:** iOS
 - **Configuration Management:** Ansible, Docker
-
-## 👔 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/stephenadavis/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~017593baec89bbaa42)
