@@ -13,7 +13,14 @@ Here are some areas I focus on:
   - ✅ Verify behavior
   - 🗣️ Facilitate communication
   - 🤝🏼 Support the next developer
-- Automation／Configuration Management
+- DevOps & Configuration Management via:
+  - Docker
+  - Ansible
+  - NixOS
+  - Kubernetes
+  - Bash scripting
+  - Raspberry Pi and other single-board computers
+  - etc.
 
 ## 🚀 Projects
 
