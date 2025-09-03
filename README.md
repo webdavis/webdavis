@@ -33,4 +33,4 @@ I'm currently focused on Homelab, with Maeve taking priority this November:
 
 - **Programming Languages:** Swift, Python, Java, JavaScript
 - **Mobile Development:** iOS
-- **Configuration Management:** Ansible, Docker
+- **Configuration & DevOps Tools:** Kubernetes, Docker, Ansible, Bash, Nix → NixOS
