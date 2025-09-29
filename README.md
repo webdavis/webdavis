@@ -1,5 +1,7 @@
 ## 🙋🏻 Introducing Myself
 
+> (Okay, I really hate this part, but I guess we have to these days)
+
 Hello, I'm Stephen, a Software Engineer passionate about building user-friendly iOS/web apps
 with clean, efficient code that scales.
 
