@@ -16,17 +16,13 @@ Here are some areas I focus on:
   - 🗣️ Facilitate communication
   - 🤝🏼 Support the next developer
 - DevOps & Configuration Management via:
-  - Docker
-  - Ansible
-  - NixOS
-  - Kubernetes
+  - Ansible, Docker, Kubernetes, NixOS
   - Bash scripting
-  - Raspberry Pi and other single-board computers
-  - etc.
+  - Raspberry Pi & other SBCs
 
 ## 🚀 Projects
 
-I'm currently focused on Homelab, with Maeve taking priority this November:
+Current focus: Homelab, with Maeve taking priority this November.
 
 [![Homelab](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/webdavis/Homelab)
 [![Maeve](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Maeve&theme=dracula&hide_border=true)](https://github.com/webdavis/Maeve)
@@ -39,6 +35,6 @@ The following is an iOS app (WIP) built using a bunch of different design method
 
 ## 🛠️ My Toolbox
 
-- **Programming Languages:** Swift, Python, Java, JavaScript
-- **Mobile Development:** iOS
-- **Configuration & DevOps Tools:** Kubernetes, Docker, Ansible, Bash, Nix → NixOS
+- **Languages:** Swift, Python, Java, JavaScript
+- **Mobile:** iOS
+- **DevOps/Configuration Management:** Kubernetes, Docker, Ansible, Bash, Nix → NixOS
