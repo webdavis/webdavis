@@ -29,6 +29,12 @@ I'm currently focused on Homelab, with Maeve taking priority this November:
 [![Homelab](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/webdavis/Homelab)
 [![Maeve](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Maeve&theme=dracula&hide_border=true)](https://github.com/webdavis/Maeve)
 
+## Case Studies
+
+The following is an iOS app (WIP) built using a bunch of different design methodologies (namely BDD & TDD):
+
+[![Essential Feed Case Study](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=essential-feed-case-study&theme=dracula&hide_border=true)](https://github.com/webdavis/essential-feed-case-study)
+
 ## 🛠️ My Toolbox
 
 - **Programming Languages:** Swift, Python, Java, JavaScript
