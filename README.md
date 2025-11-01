@@ -1,13 +1,13 @@
 ## 🙋🏻 Introducing Myself
 
-> (Okay, I really hate this part, but I guess we have to these days)
+> (Okay, I really hate this part, but I guess it's part of it these days)
 
 Hello, I'm Stephen, a Software Engineer passionate about building user-friendly iOS/web apps with clean,
 efficient code that scales.
 
 ## 📲 Mobile Applications Developer
 
-Here are some areas I focus on:
+Some areas I focus on:
 
 - Intuitive UIs
 - Test-Driven Development (as a means to):
@@ -22,15 +22,14 @@ Here are some areas I focus on:
 
 ## 🚀 Projects
 
-Current focus: Homelab, with Maeve taking priority this November.
+I've been having a lot of fun with lately:
 
 [![Homelab](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/webdavis/Homelab)
 [![Maeve](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Maeve&theme=dracula&hide_border=true)](https://github.com/webdavis/Maeve)
 
 ## Case Studies
 
-The following is an iOS app (WIP) built using a bunch of different design methodologies (namely BDD &
-TDD):
+A WIP iOS app built using a bunch of different design methodologies (namely BDD & TDD):
 
 [![Essential Feed Case Study](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=essential-feed-case-study&theme=dracula&hide_border=true)](https://github.com/webdavis/essential-feed-case-study)
 
