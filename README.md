@@ -36,6 +36,6 @@ TDD):
 
 ## 🛠️ My Toolbox
 
-- **Languages:** Swift, Python, Java, JavaScript
+- **Languages:** Swift, Python, Java, JavaScript, Bash, Lua
 - **Mobile:** iOS
 - **DevOps/Configuration Management:** Kubernetes, Docker, Ansible, Bash, Nix → NixOS
