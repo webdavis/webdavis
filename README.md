@@ -2,8 +2,8 @@
 
 > (Okay, I really hate this part, but I guess we have to these days)
 
-Hello, I'm Stephen, a Software Engineer passionate about building user-friendly iOS/web apps
-with clean, efficient code that scales.
+Hello, I'm Stephen, a Software Engineer passionate about building user-friendly iOS/web apps with clean,
+efficient code that scales.
 
 ## 📲 Mobile Applications Developer
 
@@ -29,7 +29,8 @@ Current focus: Homelab, with Maeve taking priority this November.
 
 ## Case Studies
 
-The following is an iOS app (WIP) built using a bunch of different design methodologies (namely BDD & TDD):
+The following is an iOS app (WIP) built using a bunch of different design methodologies (namely BDD &
+TDD):
 
 [![Essential Feed Case Study](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=essential-feed-case-study&theme=dracula&hide_border=true)](https://github.com/webdavis/essential-feed-case-study)
 
