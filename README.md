@@ -11,7 +11,7 @@ Some areas I focus on:
 
 - Intuitive UIs
 - Test-Driven Development (as a means to):
-  - 📐 Implement solid architecture
+  - 📐 Implement SOLID architecture
   - ✅ Verify behavior
   - 🗣️ Facilitate communication
   - 🤝🏼 Support the next developer
