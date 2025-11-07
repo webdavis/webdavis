@@ -22,7 +22,7 @@ Some areas I focus on:
 
 ## 🚀 Projects
 
-I've been having a lot of fun with lately:
+I've been having a lot of fun with these lately:
 
 [![Homelab](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/webdavis/Homelab)
 [![Maeve](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Maeve&theme=dracula&hide_border=true)](https://github.com/webdavis/Maeve)
