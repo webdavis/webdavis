@@ -29,7 +29,7 @@ I've been having a lot of fun with these lately:
 
 ## Case Studies
 
-A WIP iOS app built using a bunch of different design methodologies (namely BDD & TDD):
+A work-in-progress iOS app built using a bunch of different design methodologies (namely BDD & TDD):
 
 [![Essential Feed Case Study](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=essential-feed-case-study&theme=dracula&hide_border=true)](https://github.com/webdavis/essential-feed-case-study)
 
