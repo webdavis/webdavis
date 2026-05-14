@@ -1,40 +1,33 @@
-## 🙋🏻 Introducing Myself
+## 👋 Hi, I'm Stephen
 
-> (Okay, I really hate this part, but I guess it's part of it these days)
+Technical troubleshooter and IT problem-solver based in Utah. I spend my time reproducing bugs,
+untangling systems, and building tooling that makes complex things easier to use, for customers and for
+the engineers I work alongside.
 
-Hello, I'm Stephen, a Software Engineer passionate about building user-friendly iOS/web apps with clean,
-efficient code that scales.
+## What I work on
 
-## 📲 Mobile Applications Developer
+- **Technical support & systems troubleshooting** - from autonomous vehicles at Uber ATG to home IT
+  infrastructure I run myself
+- **Home IT & automation** - Ansible, Docker, NixOS, Kubernetes, Raspberry Pi
+- **AI agent workflows** - Claude Code, Claude Cowork, Codex, and a self-hosted OpenClaw stack on my
+  homelab
 
-Some areas I focus on:
+## Projects worth looking at
 
-- Intuitive UIs
-- Test-Driven Development (as a means to):
-  - 📐 Implement SOLID architecture
-  - ✅ Verify behavior
-  - 🗣️ Facilitate communication
-  - 🤝🏼 Support the next developer
-- DevOps & Configuration Management via:
-  - Ansible, Docker, Kubernetes, NixOS
-  - Bash scripting
-  - Raspberry Pi & other SBCs
-
-## 🚀 Projects
-
-I've been having a lot of fun with these lately:
-
-[![Homelab](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/webdavis/Homelab)
-[![Maeve](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Maeve&theme=dracula&hide_border=true)](https://github.com/webdavis/Maeve)
+- [Homelab](https://github.com/webdavis/homelab)
+- [justdavis-ansible](https://github.com/karlmdavis/justdavis-ansible)
 
 ## Case Studies
 
-A work-in-progress iOS app built using a bunch of different design methodologies (namely BDD & TDD):
+- [Essential Feed Case Study](https://github.com/webdavis/essential-feed-case-study)
 
-[![Essential Feed Case Study](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=essential-feed-case-study&theme=dracula&hide_border=true)](https://github.com/webdavis/essential-feed-case-study)
+## 🛠️ Toolbox
 
-## 🛠️ My Toolbox
+- **Languages:** Python, Bash, Swift, Lua, Java, JavaScript
+- **Infrastructure:** Ansible, Docker, Kubernetes, NixOS, AWS, Raspberry Pi
+- **AI tooling:** Claude Code, Claude Cowork, Codex, OpenClaw
+- **Support stack experience:** Jira, Slack, Zendesk, Twilio, Salesforce
 
-- **Languages:** Swift, Python, Java, JavaScript, Bash, Lua
-- **Mobile:** iOS
-- **DevOps/Configuration Management:** Kubernetes, Docker, Ansible, Bash, Nix → NixOS
+## Find me elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/stephenadavis/) · stephen@webdavis.io
