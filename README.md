@@ -19,12 +19,29 @@ Some areas I focus on:
 My strongest work — a feed-based iOS app engineered with Behavior-Driven Development (BDD) and TDD,
 demonstrating the architecture and testing discipline I bring to a team:
 
-[![Essential Feed Case Study](https://socialify.git.ci/webdavis/essential-feed-case-study/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/webdavis/essential-feed-case-study)
+<a href="https://github.com/webdavis/essential-feed-case-study">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/webdavis/essential-feed-case-study/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid">
+    <img alt="Essential Feed Case Study" src="https://socialify.git.ci/webdavis/essential-feed-case-study/image?description=1&language=1&stargazers=1&theme=Light&font=Inter&pattern=Solid" width="60%">
+  </picture>
+</a>
 
 Other projects I've been having a lot of fun with:
 
-[![Maeve](https://socialify.git.ci/webdavis/Maeve/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/webdavis/Maeve)
-[![justdavis-ansible](https://socialify.git.ci/karlmdavis/justdavis-ansible/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/karlmdavis/justdavis-ansible)
+<p>
+  <a href="https://github.com/webdavis/Maeve">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/webdavis/Maeve/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid">
+      <img alt="Maeve" src="https://socialify.git.ci/webdavis/Maeve/image?description=1&language=1&stargazers=1&theme=Light&font=Inter&pattern=Solid" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/karlmdavis/justdavis-ansible">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/karlmdavis/justdavis-ansible/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid">
+      <img alt="justdavis-ansible" src="https://socialify.git.ci/karlmdavis/justdavis-ansible/image?description=1&language=1&stargazers=1&theme=Light&font=Inter&pattern=Solid" width="49%">
+    </picture>
+  </a>
+</p>
 
 ## 🛠️ My Toolbox
 
