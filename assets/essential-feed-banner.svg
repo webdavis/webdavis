@@ -10,6 +10,8 @@
   <text x="50" y="130" class="sans" font-size="42" font-weight="700" fill="#f8f8f2">Essential Feed Case Study</text>
   <text x="52" y="170" class="sans" font-size="17" fill="#f8f8f2" opacity="0.72">A feed-based iOS app engineered with Behavior-Driven Development &amp; TDD</text>
   <text x="52" y="240" class="mono" font-size="16" fill="#ff79c6">&#8594; Explore the architecture</text>
+  <circle cx="1092" cy="235" r="5.5" fill="#ffb86c"/>
+  <text x="1106" y="240" class="mono" font-size="14" fill="#ffb86c">Swift</text>
 
   <g class="mono" font-size="12.5">
     <line x1="815" y1="94" x2="855" y2="138" stroke="#6272a4" stroke-width="1.5" stroke-dasharray="5 4"/>
