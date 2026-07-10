@@ -46,19 +46,18 @@ Other projects I've been building:
 
 ## 🛠️ My Toolbox
 
-I work across the full path of a feature — from the SwiftUI view to the Kafka topic to the
-Terraform that ships it.
+I work the full path of a feature, from the SwiftUI view to the Kafka topic to the Terraform
+that ships it.
 
-- **AI engineering:** production LLM features end to end — Claude & OpenAI APIs, RAG
+- **AI engineering:** LLM features in production. Claude & OpenAI APIs, RAG
   (retrieval-augmented generation) over pgvector, MCP (Model Context Protocol) servers, and
-  evals; agent-driven development with Hermes, Claude Code, and Codex
-- **Backend:** distributed services in Java (Spring Boot), Python (FastAPI), Go, and Rust —
-  REST & gRPC contracts, event-driven pipelines on Kafka, PostgreSQL and Redis tuned under
-  real load
-- **Cloud & platform:** AWS provisioned with Terraform; Kubernetes and Docker in production,
-  GitHub Actions pipelines, configuration with Ansible and Nix → NixOS, observability with
-  Prometheus & Grafana
-- **Mobile:** iOS in Swift — UIKit and SwiftUI — with server-side Swift (Vapor) sharing
-  models between app and API
+  evals. Agent-driven development with Hermes, Claude Code, and Codex.
+- **Backend:** services in Java (Spring Boot), Python (FastAPI), Go, and Rust. REST & gRPC
+  contracts, Kafka pipelines, PostgreSQL and Redis tuned under real load.
+- **Cloud & platform:** AWS provisioned with Terraform. Kubernetes, Docker, and GitHub
+  Actions pipelines. Ansible and Nix → NixOS for configuration, Prometheus & Grafana for
+  observability.
+- **Mobile:** iOS in Swift with UIKit and SwiftUI, plus server-side Swift (Vapor) so the app
+  and API share models.
 - **Languages:** Swift, Java, Python, TypeScript, Go, Rust, SQL, Bash
 - **Hardware:** Raspberry Pi & other single-board computers
