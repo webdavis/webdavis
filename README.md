@@ -46,9 +46,10 @@ Other projects I've been building:
 
 ## 🛠️ My Toolbox
 
-- **Languages:** Swift, Java, Python, TypeScript/JavaScript, Bash
-- **Mobile:** iOS
-- **Backend:** Java (Spring Boot), Python (FastAPI), Swift (Vapor), PostgreSQL
-- **DevOps/Configuration Management:** Kubernetes, Docker, GitHub Actions, Ansible, Nix → NixOS
-- **AI tooling:** agent workflows and hooks (Claude Code, OpenClaw)
+- **Languages:** Swift, Java, Python, TypeScript, Go, Rust, SQL, Bash
+- **Mobile:** iOS (UIKit, SwiftUI)
+- **Backend:** Java (Spring Boot), Python (FastAPI), Swift (Vapor), REST & gRPC APIs, PostgreSQL, Redis, Kafka
+- **Cloud:** AWS, Terraform
+- **DevOps/Platform:** Kubernetes, Docker, GitHub Actions, Ansible, Nix → NixOS, Prometheus & Grafana
+- **AI engineering:** LLM integration (Claude & OpenAI APIs), RAG (retrieval-augmented generation) with pgvector, MCP (Model Context Protocol) servers, agent workflows (Hermes, Claude Code, Codex)
 - **Hardware:** Raspberry Pi & other single-board computers
