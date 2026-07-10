@@ -46,8 +46,9 @@ Other projects I've been building:
 
 ## 🛠️ My Toolbox
 
-- **Languages:** Swift, Python, Java, JavaScript, Bash, Lua
+- **Languages:** Swift, Java, Python, TypeScript/JavaScript, Bash
 - **Mobile:** iOS
-- **Backend:** Java (Spring Boot), Swift (Vapor), Python (FastAPI, Flask), PostgreSQL
-- **DevOps/Configuration Management:** Kubernetes, Docker, Ansible, Bash, Nix → NixOS
+- **Backend:** Java (Spring Boot), Python (FastAPI), Swift (Vapor), PostgreSQL
+- **DevOps/Configuration Management:** Kubernetes, Docker, GitHub Actions, Ansible, Nix → NixOS
+- **AI tooling:** agent workflows and hooks (Claude Code, OpenClaw)
 - **Hardware:** Raspberry Pi & other single-board computers
