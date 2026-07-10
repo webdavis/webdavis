@@ -16,8 +16,7 @@ Some areas I focus on:
 
 ## 🚀 Projects
 
-My strongest work — a feed-based iOS app engineered with Behavior-Driven Development (BDD) and TDD,
-demonstrating the architecture and testing discipline I bring to a team:
+My strongest work is a feed-based iOS app built with Behavior-Driven Development (BDD) and TDD:
 
 <a href="https://github.com/webdavis/essential-feed-case-study">
   <img alt="Essential Feed Case Study" src="https://raw.githubusercontent.com/webdavis/webdavis/main/assets/essential-feed-banner.svg" width="100%">
@@ -27,9 +26,14 @@ demonstrating the architecture and testing discipline I bring to a team:
 [![Commits](https://img.shields.io/github/commit-activity/t/webdavis/essential-feed-case-study?style=for-the-badge&color=ffb86c&labelColor=282a36&label=commits)](https://github.com/webdavis/essential-feed-case-study/commits/main)
 [![CI](https://img.shields.io/github/actions/workflow/status/webdavis/essential-feed-case-study/CI.yml?branch=main&style=for-the-badge&labelColor=282a36&label=CI)](https://github.com/webdavis/essential-feed-case-study/actions/workflows/CI.yml)
 
-**Why it's worth a look:** [BDD acceptance criteria](https://github.com/webdavis/essential-feed-case-study#requirements) drive [use-case specs](https://github.com/webdavis/essential-feed-case-study#use-cases), verified by a [test suite](https://github.com/webdavis/essential-feed-case-study/tree/main/EssentialFeed/EssentialFeedTests) with memory-leak tracking and [end-to-end API tests](https://github.com/webdavis/essential-feed-case-study/tree/main/EssentialFeed/EssentialFeedAPIEndToEndTests), run on [CI](https://github.com/webdavis/essential-feed-case-study/actions/workflows/CI.yml) with every push.
+Why it's worth a look:
 
-Other projects I've been having a lot of fun with:
+- The [acceptance criteria](https://github.com/webdavis/essential-feed-case-study#requirements) came first and drive the [use-case specs](https://github.com/webdavis/essential-feed-case-study#use-cases)
+- The [unit suite](https://github.com/webdavis/essential-feed-case-study/tree/main/EssentialFeed/EssentialFeedTests) covers every happy and sad path and tracks memory leaks
+- The [end-to-end suite](https://github.com/webdavis/essential-feed-case-study/tree/main/EssentialFeed/EssentialFeedAPIEndToEndTests) hits the real API
+- [CI](https://github.com/webdavis/essential-feed-case-study/actions/workflows/CI.yml) runs it all on every push
+
+Other projects I've been building:
 
 <p>
   <a href="https://github.com/webdavis/Maeve">
