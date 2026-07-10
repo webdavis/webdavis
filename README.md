@@ -1,9 +1,9 @@
 ## 🙋🏻 Introducing Myself
 
-Hello, I'm Stephen, a Software Engineer passionate about building user-friendly iOS apps with clean,
-efficient code that scales.
+Hello, I'm Stephen, a Software Engineer passionate about building user-friendly iOS apps and the
+backend services behind them, with clean, efficient code that scales.
 
-## 📲 Mobile Applications Developer
+## 📲 Backend and Mobile Applications Developer
 
 Some areas I focus on:
 
