@@ -24,7 +24,7 @@ Some areas I focus on:
 
 I've been having a lot of fun with these lately:
 
-[![justdavis-ansible](https://socialify.git.ci/webdavis/Homelab/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/karlmdavis/justdavis-ansible)
+[![justdavis-ansible](https://socialify.git.ci/karlmdavis/justdavis-ansible/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/karlmdavis/justdavis-ansible)
 [![Maeve](https://socialify.git.ci/webdavis/Maeve/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/webdavis/Maeve)
 
 ## Case Studies
