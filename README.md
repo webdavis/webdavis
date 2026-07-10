@@ -24,14 +24,14 @@ Some areas I focus on:
 
 I've been having a lot of fun with these lately:
 
-[![justdavis-ansible](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/karlmdavis/justdavis-ansible)
-[![Maeve](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Maeve&theme=dracula&hide_border=true)](https://github.com/webdavis/Maeve)
+[![justdavis-ansible](https://socialify.git.ci/webdavis/Homelab/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/karlmdavis/justdavis-ansible)
+[![Maeve](https://socialify.git.ci/webdavis/Maeve/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/webdavis/Maeve)
 
 ## Case Studies
 
 A work-in-progress iOS app built using a bunch of different design methodologies (namely BDD & TDD):
 
-[![Essential Feed Case Study](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=essential-feed-case-study&theme=dracula&hide_border=true)](https://github.com/webdavis/essential-feed-case-study)
+[![Essential Feed Case Study](https://socialify.git.ci/webdavis/essential-feed-case-study/image?description=1&language=1&stargazers=1&theme=Dark&font=Inter&pattern=Solid)](https://github.com/webdavis/essential-feed-case-study)
 
 ## 🛠️ My Toolbox
 
