@@ -24,7 +24,7 @@ Some areas I focus on:
 
 I've been having a lot of fun with these lately:
 
-[![Homelab](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/webdavis/Homelab)
+[![justdavis-ansible](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Homelab&theme=dracula&hide_border=true)](https://github.com/karlmdavis/justdavis-ansible)
 [![Maeve](https://github-readme-stats.vercel.app/api/pin/?username=webdavis&repo=Maeve&theme=dracula&hide_border=true)](https://github.com/webdavis/Maeve)
 
 ## Case Studies
