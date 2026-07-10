@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Essential Feed Case Study — a feed-based iOS app engineered with Behavior-Driven Development and TDD">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="14" fill="#282a36" stroke="#44475a" stroke-width="2"/>
+  <text x="52" y="72" class="mono" font-size="13" letter-spacing="2.5" fill="#6272a4">WEBDAVIS / ESSENTIAL-FEED-CASE-STUDY</text>
+  <text x="50" y="130" class="sans" font-size="42" font-weight="700" fill="#f8f8f2">Essential Feed Case Study</text>
+  <text x="52" y="170" class="sans" font-size="17" fill="#f8f8f2" opacity="0.72">A feed-based iOS app engineered with Behavior-Driven Development &amp; TDD</text>
+  <text x="52" y="240" class="mono" font-size="16" fill="#ff79c6">&#8594; Explore the architecture</text>
+
+  <g class="mono" font-size="12.5">
+    <line x1="815" y1="94" x2="855" y2="138" stroke="#6272a4" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <line x1="1010" y1="94" x2="925" y2="138" stroke="#6272a4" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <line x1="890" y1="190" x2="890" y2="222" stroke="#6272a4" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <line x1="740" y1="186" x2="800" y2="166" stroke="#6272a4" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+    <rect x="730" y="60" width="160" height="34" rx="8" fill="none" stroke="#8be9fd" stroke-width="1.5"/>
+    <text x="810" y="82" fill="#8be9fd" text-anchor="middle">RemoteFeedLoader</text>
+
+    <rect x="936" y="60" width="150" height="34" rx="8" fill="none" stroke="#ff79c6" stroke-width="1.5"/>
+    <text x="1011" y="82" fill="#ff79c6" text-anchor="middle">LocalFeedLoader</text>
+
+    <rect x="822" y="138" width="136" height="34" rx="8" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+    <text x="890" y="160" fill="#bd93f9" text-anchor="middle">&lt;FeedLoader&gt;</text>
+
+    <rect x="640" y="186" width="128" height="34" rx="8" fill="none" stroke="#50fa7b" stroke-width="1.5"/>
+    <text x="704" y="208" fill="#50fa7b" text-anchor="middle">&lt;HTTPClient&gt;</text>
+
+    <rect x="838" y="222" width="104" height="34" rx="8" fill="none" stroke="#ffb86c" stroke-width="1.5"/>
+    <text x="890" y="244" fill="#ffb86c" text-anchor="middle">FeedItem</text>
+  </g>
+</svg>
