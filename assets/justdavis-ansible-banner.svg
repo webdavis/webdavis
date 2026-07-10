@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 280" role="img" aria-label="justdavis-ansible — Ansible playbooks and roles automating the Davis family systems">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="588" height="278" rx="12" fill="#282a36" stroke="#44475a" stroke-width="2"/>
+  <text x="44" y="62" class="mono" font-size="12.5" letter-spacing="2" fill="#6272a4">KARLMDAVIS / JUSTDAVIS-ANSIBLE</text>
+  <text x="42" y="118" class="sans" font-size="34" font-weight="700" fill="#f8f8f2">justdavis-ansible</text>
+  <text x="44" y="154" class="sans" font-size="15" fill="#f8f8f2" opacity="0.72">Ansible playbooks and roles automating the Davis family systems.</text>
+  <text x="44" y="237" class="mono" font-size="14" fill="#ff79c6">&#8594; Explore the playbooks</text>
+  <circle cx="478" cy="232" r="5.5" fill="#ff5555"/>
+  <text x="492" y="237" class="mono" font-size="14" fill="#ff5555">Ansible</text>
+</svg>

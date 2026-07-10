@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 280" role="img" aria-label="Maeve — a simple weather app built for the iPhone">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="588" height="278" rx="12" fill="#282a36" stroke="#44475a" stroke-width="2"/>
+  <text x="44" y="62" class="mono" font-size="12.5" letter-spacing="2" fill="#6272a4">WEBDAVIS / MAEVE</text>
+  <text x="42" y="118" class="sans" font-size="34" font-weight="700" fill="#f8f8f2">Maeve</text>
+  <text x="44" y="154" class="sans" font-size="15" fill="#f8f8f2" opacity="0.72">A simple weather app built for the iPhone.</text>
+  <text x="44" y="237" class="mono" font-size="14" fill="#ff79c6">&#8594; Explore the app</text>
+  <circle cx="496" cy="232" r="5.5" fill="#ffb86c"/>
+  <text x="510" y="237" class="mono" font-size="14" fill="#ffb86c">Swift</text>
+</svg>

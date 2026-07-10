@@ -33,16 +33,10 @@ Other projects I've been having a lot of fun with:
 
 <p>
   <a href="https://github.com/webdavis/Maeve">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/webdavis/Maeve/image?description=1&language=1&theme=Dark&font=Inter&pattern=Solid">
-      <img alt="Maeve" src="https://socialify.git.ci/webdavis/Maeve/image?description=1&language=1&theme=Light&font=Inter&pattern=Solid" width="49%">
-    </picture>
+    <img alt="Maeve" src="https://raw.githubusercontent.com/webdavis/webdavis/main/assets/maeve-banner.svg" width="49%">
   </a>
   <a href="https://github.com/karlmdavis/justdavis-ansible">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/karlmdavis/justdavis-ansible/image?description=1&language=1&theme=Dark&font=Inter&pattern=Solid">
-      <img alt="justdavis-ansible" src="https://socialify.git.ci/karlmdavis/justdavis-ansible/image?description=1&language=1&theme=Light&font=Inter&pattern=Solid" width="49%">
-    </picture>
+    <img alt="justdavis-ansible" src="https://raw.githubusercontent.com/webdavis/webdavis/main/assets/justdavis-ansible-banner.svg" width="49%">
   </a>
 </p>
 
