@@ -1,0 +1,36 @@
+name: Refresh flagship stats
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recount tests in essential-feed-case-study
+        run: |
+          set -euo pipefail
+          git clone --depth=1 https://github.com/webdavis/essential-feed-case-study /tmp/case-study
+          tests=$(find /tmp/case-study -name "*.swift" -path "*Tests*" -exec grep -h "func test" {} + | wc -l | tr -d ' ')
+          echo "counted tests=$tests"
+          printf '{\n  "tests": %s\n}\n' "$tests" > stats.json
+
+      - name: Commit when the count changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- stats.json; then
+            echo "test count unchanged; nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.json
+          git commit -m "chore: refresh flagship test count"
+          git push
