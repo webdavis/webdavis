@@ -48,5 +48,6 @@ Other projects I've been building:
 
 - **Languages:** Swift, Python, Java, JavaScript, Bash, Lua
 - **Mobile:** iOS
+- **Backend:** Java (Spring Boot), Swift (Vapor), Python (FastAPI, Flask), PostgreSQL
 - **DevOps/Configuration Management:** Kubernetes, Docker, Ansible, Bash, Nix → NixOS
 - **Hardware:** Raspberry Pi & other single-board computers
