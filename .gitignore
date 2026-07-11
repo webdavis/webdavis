@@ -1,2 +1,5 @@
 # Ignore macOS Finder metadata file
 .DS_Store
+
+# Local graphify knowledge-graph output (not visitor-facing)
+graphify-out/
